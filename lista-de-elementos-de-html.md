@@ -40,7 +40,7 @@ Version html5
 
 
 |Etiqueta           | Descripcion                                                      |
-|:---------------:--|------------------------------------------------------------------|
+|:-----------------:|------------------------------------------------------------------|
 |`<p>`              |Muestra un parrafo                                                |
 |`<hr>`             |Representa un quiebre temático entre parrafos de una sección o articulo |
 | `<pre>`           |	Indica que su contenido esta preformateado                       |
