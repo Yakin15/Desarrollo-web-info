@@ -1,7 +1,7 @@
 # Estructura de html
 Esta es la estructura  basica de html. Creando en cada unos de los proyectos que debe utilisarce  
 
-**Ejemplo: **
+**Ejemplo:**
 
 ```html
 <!DOCTYPE html>
