@@ -4,4 +4,6 @@ Las secciones permiter Estructura el documento del web sematica mediante el esta
 
 **Ejemplo**: 
 
-![secciones](img/2.png)
+![](img/2.png)
+
+
