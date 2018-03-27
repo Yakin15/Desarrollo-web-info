@@ -24,7 +24,7 @@ Esta es la estructura  basica de html. Creando en cada unos de los proyectos que
     <!-- Este es le icono de la pestaña de la pagina -->
     <link rel="apple-touch-icon" href="favicon.ico">
 
-    <!-- Es es el documento exteririo de stilo de css -->
+    <!-- Es es el documento exterior de stilo de css -->
     <link rel="stylesheet" href="style.css">
 
 </head>
