@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Formulario</title>
+</head>
+<body>
+    <form  method="post">
+        <fieldset>
+            <legend>Nombre: </legend>
+                <label for="nombre">Nombre: </label>
+                <input type="text" name="nombre" placeholder="Nombre">
+
+                <label for="apellido">Apellido</label>
+                <input type="text" name="apellido" placeholder="Apellido">
+        </fieldset>
+        <fieldset>
+        <legend>Informacion</legend>
+            <label for="telefono">telefono: </label>
+            <input type="tel" name="telefono">
+
+            <label for="telefono">Numero Celular: </label>
+            <input type="tel" name="celular">
+
+            <label for="email">E-mail</label>
+            <input type="email" name="email">
+        </fieldset>
+        <fieldset>
+            <legend>Fecha de nacimiento: </legend>
+            <label for="dia">Dia: </label>
+            
+            <label for="mes">Mes: </label>
+            <input type="month" name="" value="">
+        </fieldset>
+    </form>
+
+    <script >
+            HTMLSelectElemet.setCustomValidity();
+            <!-- Validacion de Formulario -->
+    </script>
+</body>
+</html>
